@@ -1,0 +1,11 @@
+transformers==4.38.2
+torch==1.13.1+cu117
+sentencepiece==0.1.96
+sentence-transformers==2.3.1
+huggingface_hub==1.0.0
+tiktoken==0.1.3
+pypdf2==23.0.0
+langchain==0.11.2
+chromadb==0.1.8
+ipywidgets==8.0.1
+nltk==3.7
