@@ -1,7 +1,7 @@
 # SysDocA
 Synergetic Semantic Enrichment System (SSES) – User-Driven Document Analysis and Enhancement Framework 
 
-This is a showcase of document analyser using langchain in Python.
+This is a showcase of document analyser using langchain in Python deployed in Google Colab.
 
 Sophisticated Algorithmic Data Analysis, Evaluation, and Robust query system with GUI.
 
