@@ -20,8 +20,10 @@ Run the following command from the terminal
 pip install -r requirements.txt
 ```
 ## Step 3: Ensure Proper location of pdf files
+![image](https://github.com/Pratyay-ops/SysDocA/assets/133751979/96dbabb3-d9bb-4421-8272-9b4a061aa118)
 
 ## Step 4: Run & Go
+![image](https://github.com/Pratyay-ops/SysDocA/assets/133751979/66fb0897-e5ca-4a1a-a06f-a060f758ff77)
 
 ## Acknowledgement
 Thanks to the amazing support of [Adhyetrijod](https://github.com/adhyetrijod) for making this project possible.
