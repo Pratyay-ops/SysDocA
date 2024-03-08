@@ -28,4 +28,4 @@ Thanks to the amazing support of [Adhyetrijod](https://github.com/adhyetrijod) f
 
 ## License
 
-This project is licensed under the [WTFPL license](LICENSE). Feel free to modify and distribute it according to the terms of the license.
+This project is licensed under the [[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)]([https://github.com/Pratyay-ops/Webscrapingshowcase/blob/main/LICENSE])](LICENSE) . Feel free to modify and distribute it according to the terms of the license.
