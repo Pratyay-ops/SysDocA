@@ -22,3 +22,10 @@ pip install -r requirements.txt
 ## Step 3: Ensure Proper location of pdf files
 
 ## Step 4: Run & Go
+
+## Acknowledgement
+Thanks to the amazing support of [Adhyetrijod](https://github.com/adhyetrijod) for making this project possible.
+
+## License
+
+This project is licensed under the [WTFPL license](LICENSE). Feel free to modify and distribute it according to the terms of the license.
